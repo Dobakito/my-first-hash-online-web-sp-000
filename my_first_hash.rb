@@ -1,5 +1,6 @@
 def my_hash
-  my_hash["Song Name"] => "Lost In Space"
+  your_hash = {}
+  your_hash["Song Name"] => "Lost In Space"
   
 end
 
