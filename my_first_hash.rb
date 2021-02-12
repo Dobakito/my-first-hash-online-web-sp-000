@@ -1,4 +1,4 @@
-def my_hash(your_hash)
+def my_hash
   your_hash = {}
   your_hash["Song Name"] => "Lost In Space"
   
